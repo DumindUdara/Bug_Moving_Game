@@ -23,7 +23,5 @@ When the bug reaches the food, the game ends, and a "Game Over" message is displ
 ![image](https://github.com/DumindUdara/Bug_Moving_Game/assets/98957798/0006ca8b-7abb-4f41-8aaf-6b5d41e557e0)
 
 
-Enter Bug position and food position 
-
 
 

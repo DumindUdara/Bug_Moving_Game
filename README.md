@@ -16,3 +16,7 @@ The main menu is displayed, showing the initial positions of the bug and the foo
     After every move, the updated grid is displayed using the display_bord() function. The loop continues until the bug reaches the food.
 
 When the bug reaches the food, the game ends, and a "Game Over" message is displayed along with "Bug ate food."
+
+# Demostration 
+![image](https://github.com/DumindUdara/Bug_Moving_Game/assets/98957798/e9a95099-1e45-4e51-b978-005c02e36b7a)
+

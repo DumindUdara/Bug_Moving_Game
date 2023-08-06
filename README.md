@@ -12,9 +12,7 @@ The main menu is displayed, showing the initial positions of the bug and the foo
     The step() function moves the bug one step forward in its current direction.
     The start() function initializes the bug and food positions. The user is prompted to enter the bug's initial position (x, y) and the food's position (x, y). The positions are checked for validity, and if they are within the grid boundaries and not occupied by an obstacle, the bug and food are placed on the grid.
     The won() function checks if the bug has reached the food's position, indicating a win.
-
     The main loop runs until the bug reaches the food. In each iteration, the sense() function is called to check the next possible move. If the bug cannot move forward, it turns using the turn() function and tries to move again.
-
     After every move, the updated grid is displayed using the display_bord() function. The loop continues until the bug reaches the food.
 
 When the bug reaches the food, the game ends, and a "Game Over" message is displayed along with "Bug ate food."
